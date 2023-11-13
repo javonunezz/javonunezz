@@ -12,7 +12,6 @@ Actualmente poseo un buen manejo de las siguientes tecnologias:
 - JavaScript
 - HTML
 - CSS
-- SASS/SCSS
 - Tailwind CSS
 - NodeJS
 - Express
